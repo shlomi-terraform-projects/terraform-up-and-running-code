@@ -2,3 +2,7 @@
 *.tfstate.backup
 .terraform
 *.iml
+
+*.tfvars
+*.conf
+.idea
