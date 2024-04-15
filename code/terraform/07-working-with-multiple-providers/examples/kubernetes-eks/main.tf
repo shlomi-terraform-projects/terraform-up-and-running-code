@@ -14,7 +14,7 @@ terraform {
 }
 
 provider "aws" {
-  region = "us-east-2"
+  region = "us-east-1"
 }
 
 # We need to authenticate to the EKS cluster, but only after it has been created. We accomplish this by using the
